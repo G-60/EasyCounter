@@ -1,0 +1,3 @@
+# EasyCounter
+
+A simple counter :)
